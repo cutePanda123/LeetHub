@@ -9,8 +9,8 @@ const oAuth2 = {
       'https://github.com/login/oauth/access_token';
     this.AUTHORIZATION_URL =
       'https://github.com/login/oauth/authorize';
-    this.CLIENT_ID = 'beb4f0aa19ab8faf5004';
-    this.CLIENT_SECRET = '843f835609c7ef02ef0f2f1645bc49514c0e65a6';
+    this.CLIENT_ID = '2b8c96e9cfc802814f48';
+    this.CLIENT_SECRET = 'REPLACE_WITH_YOUR_GITHUB_APPLICATION_CLIENT_SECRET';
     this.REDIRECT_URL = 'https://github.com/'; // for example, https://github.com
     this.SCOPES = ['repo'];
   },
